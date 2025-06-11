@@ -86,7 +86,7 @@ UML圖:
                     | + updateObjects()             |
                     | + checkCollision()            |
                     +-------------------------------+
-
+---
 流程圖(flowchart))
 +------------+
 |   Start    |
