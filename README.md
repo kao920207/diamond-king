@@ -83,8 +83,12 @@
                     | + checkCollision()                         |
                     +---------------------------------------------+
 ---
+
 ## flowchart 流程圖
 <details> <summary>🧭 點擊展開 Flowchart</summary>
+
+```text
+          
      +------------+
      |   Start    |
      +------------+
