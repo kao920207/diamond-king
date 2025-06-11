@@ -27,18 +27,7 @@
 | `Q`  | 離開遊戲     |
 | `R`  | 重新開始遊戲 |
 
----
 
-## 🛠 編譯與執行
-
-### 🔧 使用 CMake 編譯：
-
-```bash
-mkdir build
-cd build
-cmake ..
-make
-./exec
 
 
 ---
@@ -93,3 +82,15 @@ make
                     | + updateObjects()                          |
                     | + checkCollision()                         |
                     +---------------------------------------------+
+---
+
+## 🛠 編譯與執行
+
+### 🔧 使用 CMake 編譯：
+
+```bash
+mkdir build
+cd build
+cmake ..
+make
+./exec
